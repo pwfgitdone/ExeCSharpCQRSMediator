@@ -1,2 +1,2 @@
 # ExeCSharpCQRSMediator
-Exercicio de ASP.NET Core APIs: CQRS e Mediator | por André Baltieri
+Exercicio de ASP.NET Core APIs: CQRS e Mediator André Baltieri
